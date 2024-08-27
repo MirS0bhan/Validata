@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "validata"
+version = "0.1.0"
+description = "dataclass & validation simple as well as hell."
+authors = ["misano <me@MirSobhan.ir>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.group.dev.dependencies]
+typing-validation = "^1.2.11.post4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

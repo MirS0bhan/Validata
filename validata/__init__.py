@@ -1,0 +1,1 @@
+from validata import BaseModel

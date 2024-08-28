@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "validata"
+name = "vlidt"
 version = "0.1.0"
 description = "dataclass & validation simple as well as hell."
 authors = ["misano <me@MirSobhan.ir>"]

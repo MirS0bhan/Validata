@@ -1,14 +1,11 @@
 import unittest
-from dataclasses import dataclass
 from typing import List, Optional
 
-from validata import BaseModel
+from vlidt import BaseModel
 
 
 # Define a subclass of BaseModel to test the functionality
 
-
-@dataclass
 class Person(BaseModel):
     name: str
     age: int

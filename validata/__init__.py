@@ -1,1 +1,1 @@
-from validata import BaseModel
+from .validata import BaseModel
